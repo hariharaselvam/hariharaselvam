@@ -5,6 +5,7 @@
 - 📫 How to reach me @ hariharaselvam8@gmail.com
 
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=hariharaselvam&show_icons=true)
+![My's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariharaselvam)
 
 <!---
 hariharaselvam/hariharaselvam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
