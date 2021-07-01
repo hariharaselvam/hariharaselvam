@@ -1,13 +1,24 @@
-- 👋 Hi, I’m @hariharaselvam
-- 👀 I’m interested in python and javascript frameworks
-- 🌱 I’m currently learning Cypress
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me @ hariharaselvam8@gmail.com
+### Hi there 👋, my name is Hariharaselvam
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-![My's github stats](https://github-readme-stats.vercel.app/api?username=hariharaselvam&show_icons=true)
-![My's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariharaselvam)
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<!---
-hariharaselvam/hariharaselvam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on rubrik 
+- 📫 How to reach me: Email to hariharaselvam8@gmail.com 
+- 😄 Pronouns: Hari 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hariharaselvam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hariharaselvam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hariharaselvam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hariharaselvamb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hariharaselvam)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hariharaselvam&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hariharaselvam)  
+
+![GitHub metrics](https://metrics.lecoq.io/hariharaselvam)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hariharaselvam)  
+
+![Profile views](https://gpvc.arturio.dev/hariharaselvam)  
