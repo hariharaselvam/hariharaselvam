@@ -4,7 +4,7 @@
 Skills: Vue JS, Bulma, Cypress, Django, Pandas
 
 - 🔭 I’m currently working on Rubrik 
-- 🌱 I’m currently learning UX Design 
+- 🌱 I’m currently learning ReactJs 
 - 📫 How to reach me: Email to hariharaselvam8@gmail.com 
 
 
