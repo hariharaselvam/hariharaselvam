@@ -14,4 +14,3 @@ Skills: Vue JS, Bulma, Cypress, Django, Pandas
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hariharaselvam)  
 
-![Profile views](https://gpvc.arturio.dev/hariharaselvam)  
